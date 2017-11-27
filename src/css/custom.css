@@ -1,0 +1,28 @@
+/* your styles go here */
+
+.table-block :hover {
+    background: #34373d
+}
+
+#all-table div {
+    background: #db6574;
+    color: #2d3035
+}
+
+#all-table :hover {
+    background: #cb6c7e
+}
+
+.index-chart {
+    height: 100%;
+    width: 100%;
+}
+
+.dicon {
+    padding-right: 10px;
+}
+
+.breadcrumb_item {
+    list-style: none;
+    display: inline;
+}
